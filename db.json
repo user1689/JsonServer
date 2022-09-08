@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   }
-  "get": {
+  "data": {
     "events": [
         {
           "url": "/xxx",
@@ -28,6 +28,6 @@
           "userId": "",
           "timestamp": 1212734481000
         }
-     ]
+    ]
   }
 }
