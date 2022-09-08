@@ -1,20 +1,5 @@
 {
   "posts": [
-        {
-          "url": "/xxx",
-          "userId": "",
-          "timestamp": 1212754585000
-        },
-        {
-          "url": "/xxx",
-          "userId": "",
-          "timestamp": 1212741416000
-        },
-        {
-          "url": "/xxx",
-          "userId": "",
-          "timestamp": 1212734481000
-        }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
