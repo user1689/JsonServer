@@ -11,4 +11,23 @@
   "profile": {
     "name": "typicode"
   }
+  "get": {
+    "events": [
+        {
+          "url": "/xxx",
+          "userId": "",
+          "timestamp": 1212754585000
+        },
+        {
+          "url": "/xxx",
+          "userId": "",
+          "timestamp": 1212741416000
+        },
+        {
+          "url": "/xxx",
+          "userId": "",
+          "timestamp": 1212734481000
+        }
+     ]
+  }
 }
