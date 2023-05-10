@@ -5,5 +5,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "res":{
+     "data":{ 
+      "code":1000 
+    } 
   }
 }
