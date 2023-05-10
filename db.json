@@ -3,9 +3,5 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "res": {
-     "data": { 
-      "code": 1000 
-    }
-  }
+  "res": { "code": 1000 }
 }
