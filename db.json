@@ -6,9 +6,9 @@
   "profile": {
     "name": "typicode"
   },
-  "res":{
-     "data":{ 
-      "code":1000 
-    } 
+  "res": {
+     "data": { 
+      "code": 1000 
+    }
   }
 }
